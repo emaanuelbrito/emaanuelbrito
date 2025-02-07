@@ -1,4 +1,4 @@
-# Hi, I'm [Emanuel Brito] 👋
+# Hi, I'm Emanuel Brito 👋
 
 Welcome to my GitHub profile! I'm a former Civil Engineer passionate about backend developer with a keen interest in cybersecurity. I love to learn and create software.
 
@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a former Civil Engineer passionate about backe
 
 ## About Me
 
-- 🔭 **Currently working on:** *[Arcade Game]*
-- 🌱 **Learning:** *[SQL, Python and Cybersecurity Skills]*
+- 🔭 **Currently working on:** *Arcade Game*
+- 🌱 **Learning:** *SQL, Python and Cybersecurity Skills*
 - 💬 **Ask me about:** Backend Development, Cybersecurity
 - 📫 **How to reach me:** [ing.emanuelbrito@gmail.com](mailto:ing.emanuelbrito@gmail.com)
-- ⚡ **Fun fact:** *[I learned how to build houses first, rather than how to make software.]*
+- ⚡ **Fun fact:** *I learned how to build houses first, rather than how to make software.*
 
 ---
 
@@ -36,11 +36,11 @@ Welcome to my GitHub profile! I'm a former Civil Engineer passionate about backe
 
 ### 💻 Development Projects
 
-- **[Personal Portfolio]**  
+- **Personal Portfolio**  
   *A website where I can share my work.*  
   [GitHub Repository](https://github.com/emaanuelbrito/manubrito.dev)
 
-- **[Password Generator]**  
+- **Password Generator**  
   *Password generator that follows NIST recommendations.*  
   [GitHub Repository](https://github.com/yourusername/project)
 
